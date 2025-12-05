@@ -26,7 +26,7 @@
     align-items: center;
 }
 
-/* .item1{
+.item1{
     grid-row: header;
 }
 
@@ -40,4 +40,4 @@
 
 .item4{
     grid-area: footer;
-} */
+}
