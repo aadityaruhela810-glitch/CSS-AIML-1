@@ -1,0 +1,15 @@
+h1{
+    text-align: centre;
+    color: violet;
+}
+p{
+    color: red;
+}
+div{
+    border: 5px solid black;
+    margin: 100px;
+    padding: 20px;
+    border: 16px;
+    height: 200px;
+    width: 200px;
+}
